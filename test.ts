@@ -1,2 +1,2 @@
-import {Hello} from "./helloworld.js"
+import {Hello} from "./helloworld"
 console.log(Hello());
